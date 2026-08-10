@@ -1,14 +1,65 @@
+
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=435&lines=+Backend+developer+in+training;The+world+is+yours." alt="Typing SVG" /></a>
+</div>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mendezalv&style=flat-square&color=000000&label=PROFILE+VIEWS)
+
+
+---
+
+<br/><br/>
+
 <div align="center">
 
+<table width="100%">
+<tr>
 
+<td align="left" width="50%">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:0077b5,100:113467&text=KAUÃ%20MENDES&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<div style="background-color:#111; padding:20px 25px; border-radius:12px;">
 
+<pre>
+◈  Class     →  Backend 
+◈  Origin    →  Brazil 🇧🇷
+</pre>
 
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=0077b5&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;FULL+STACK+DEVELOPER;REACT+%7C+JAVA+%7C+PYTHON;AI+%7C+SOFTWARE+ENGINEERING"/>
+</td>
 
+<td align="right" width="50%">
 
+<div style="border-radius:18px; overflow:hidden;">
+
+<img 
+  width="400"
+  src="https://github.com/user-attachments/assets/5c6ffe80-cef0-40ed-ba4c-6b2b836594ea"
+/>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/><br/>
+## Technologies
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 
 </div>
 
@@ -16,230 +67,24 @@
 
 ---
 
-##  About Me
+<br/><br/>
 
-
-
-```javascript
-
-const Kauã = {
-
-
-
-name: "Kauã Mendes",
-
-
-
-role: "Full Stack Developer",
-
-
-
-location: "Brasília, Brazil 🇧🇷",
-
-
-
-stack: {
-
-frontend: [
-
-"React",
-
-"JavaScript",
-
-"TypeScript",
-
-"HTML",
-
-"CSS"
-
-],
-
-
-
-backend: [
-
-"Java",
-
-"Node.js",
-
-"Python"
-
-],
-
-
-
-database: [
-
-"MySQL",
-
-"Supabase"
-
-]
-
-},
-
-
-
-tools: [
-
-"Git",
-
-"GitHub",
-
-"Figma",
-
-"VS Code"
-
-],
-
-
-
-passion:
-
-"Building digital experiences 🚀"
-
-
-
-}
-
-```
-
-
----
-
-## ⚡ Tech Stack
-
-
-
+## Statistics
 <div align="center">
 
 
+<img src="https://streak-stats.demolab.com?user=Mendezalv&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,python,mysql,supabase,git,github,figma,vscode,docker&perline=8"/>
-
-
+<br/>
 
 </div>
-
-
 
 ---
 
-## 🚀 Featured Projects
-
-
-
-| 🚀 Project | 💡 Description |
-
-
-
-
-
----
-
-## 📊 GitHub Analytics
-
-
+## Contribution Graph
 
 <div align="center">
 
-
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mendezalv&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendezalv&layout=compact&theme=tokyonight&hide_border=true"/>
-
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mendezalv&bg_color=0d0d0d&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=false&border_color=2a2a2a&title_color=FFFFFF)](https://github.com/Mendezalv)
 
 </div>
-
-
-
-<br>
-
-
-
-<div align="center">
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mendezalv&theme=tokyonight&hide_border=true"/>
-
-
-
-</div>
-
-
-
----
-
-## 🏆 GitHub Trophies
-
-
-
-<div align="center">
-
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=sophiahonopato&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-
-
-</div>
-
-
-
----
-
-## 🌎 Connect With Me
-
-
-
-<div align="center">
-
-
-
-<a href="https://github.com/Mendezalv">
-
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-
-</a>
-
-
-
-<a href="https://www.linkedin.com/in/kaua-mendes/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-
-
-</div>
-
-
-
----
-
-<div align="center">
-
-
-
-### "Turning ideas into code and code into experiences."
-
-
-
-<img src="https://komarev.com/ghpvc/?username=Mendezalv&style=for-the-badge&color=000000"/>
-
-
-
-</div>
-
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:0077b5,100:113467"/> 
-
-
-
