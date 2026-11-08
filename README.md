@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=435&lines=+Backend+developer+in+training;The+world+is+yours." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=22&pause=1200&color=FFFFFF&width=750&lines=Wake+up+to+reality;Nothing+ever+goes+as+planned+in+this+accursed+world.;The+longer+you+live%2C+the+more+you+realize+that+in+this+reality;Only+pain%2C+suffering%2C+and+futility+exist." alt="Typing SVG" /></a>
 </div>
 
 
@@ -49,17 +49,24 @@
 </div>
 
 <br/><br/>
+
+## About Me
+
+> Software Engineering student at the University of Brasília (UnB) and Trainee at CJR, focused on backend architecture, intelligent API integrations, and scalable systems. Passionate about applying Clean Code, Domain-Driven Design (DDD), and modern ecosystems (Java/Spring & Python/FastAPI) to solve complex problems.
+
+<br/><br/>
 ## Technologies
 
 <div align="center">
 
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111?style=for-the-badge&logo=springboot&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
-![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=FFFFFF)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+![Redis](https://img.shields.io/badge/Redis-111?style=for-the-badge&logo=redis&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=FFFFFF)
 
 </div>
 
@@ -85,6 +92,6 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mendezalv&bg_color=0d0d0d&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=false&border_color=2a2a2a&title_color=FFFFFF)](https://github.com/Mendezalv)
+[![Activity Graph](https://github-activity-graph.vercel.app/graph?username=Mendezalv&bg_color=0d0d0d&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=false&border_color=2a2a2a&title_color=FFFFFF)](https://github.com/Mendezalv)
 
 </div>
